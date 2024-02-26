@@ -28,7 +28,7 @@
 - [Node.js](#)
 
   
-![1](https://github.com/PranavPatil7/ConsultantWebApp/assets/30521517/35c7ebf9-66e8-4cd7-b53c-f8dbaed3d2cf)
-![2](https://github.com/PranavPatil7/ConsultantWebApp/assets/30521517/c77661a1-a23e-4354-891f-3f0aea8d3cd3)
-![4](https://github.com/PranavPatil7/ConsultantWebApp/assets/30521517/7d2bb124-89b2-40ba-9b6a-76db6a057942)
-![3](https://github.com/PranavPatil7/ConsultantWebApp/assets/30521517/f6b8e8d7-e397-4fbb-85cd-32ccb7cecb1e)
+![1](https://github.com/PranavPatil7/ConsultantWebApp/assets/30521517/e0f5c29a-03df-4012-a263-6bf8138094e5)
+![2](https://github.com/PranavPatil7/ConsultantWebApp/assets/30521517/6e4ba269-51e8-417a-8633-5b86061fa482)
+![3](https://github.com/PranavPatil7/ConsultantWebApp/assets/30521517/759996ca-c89e-4893-8353-3d743ae69caa)
+![4](https://github.com/PranavPatil7/ConsultantWebApp/assets/30521517/9f55af46-9ea0-491c-924e-c1c9e08217a8)
